@@ -13,10 +13,10 @@ in Tinkercad projects
 # Como uso? How Works?
 
 
-Para olha o código basta procurar dentro das pastas dos projetos um arquivo ou pasta chamada "code".
+Para olha o código basta procurar dentro das pastas dos projetos um arquivo ou pasta chamada "bom.csv".
 Lá contêm tambem uma planilha com todos os componentes usados e um arquivo .brd com o layout do projeto
 
-To look at the code just look inside the project folders for a file or folder called "code".
+To look at the code just look inside the project folders for a file or folder called "bom.csv".
 There they also contain a spreadsheet with all the components used and a .brd file with the project layout
 
 # Have License?
